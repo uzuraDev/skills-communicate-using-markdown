@@ -15,3 +15,8 @@ Initialixed empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var word = "Hello World!";
 ```
+
+- [x] ヘッダーの追加
+- [x] 画像の追加
+- [ ] タスクリストの追加
+
